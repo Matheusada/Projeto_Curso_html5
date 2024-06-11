@@ -50,7 +50,7 @@
 		font-size: 30px;
 		color: #606060;
 		text-shadow: 1px 1px 1px rgba(0,0,0,.6);
-		padding: 0px;
+		padding:0px;
 		margin-bottom:0px;
 	}
 	header#cabecalho h2{
@@ -101,7 +101,7 @@
 		text-transform:uppercase;
 		position: absolute;
 		top: -20px;
-		left: 500px;
+		left: 650px;
 	}
 	nav#menu li{
 		display: inline-block;
